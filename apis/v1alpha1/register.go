@@ -13,7 +13,7 @@ import (
 
 // Package type metadata.
 const (
-	Group   = "template.upbound.io"
+	Group   = "github.maaraa.io"
 	Version = "v1alpha1"
 )
 
